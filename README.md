@@ -1,10 +1,9 @@
 # momentum_clone
 Create a clone application about Chrome extension Momentum with HTML5, CSS3, and Javascript
 
-----------------------------------------------------------------------------------------------------------
 
 ## issues
-I couldn't find using APIs without uploading API keys.
+I couldn't find the way to use APIs without uploading API keys to github repository.
 So, I use APIs not using API keys.
 There are some issues at APIs
 
