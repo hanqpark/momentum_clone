@@ -8,7 +8,7 @@ So, I use APIs not using API keys.
 There are some issues at APIs
 
 ### 1. Background Image
-There are rate limit on unsplash API. So maybe you can't background images.
+There are rate limit on unsplash API. So maybe you can't load background images.
 And it's very slow to get a image from server. You need to wait for it.
 
 ### 2. Weather Info
