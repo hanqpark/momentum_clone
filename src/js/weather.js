@@ -22,8 +22,9 @@ function saveCoords(coordsObj){
 }
 
 function handleGeoSuccess(position){
-    const latitude = position.coords.latitude.toFixed(2);
-    const longitude = position.coords.longitude.toFixed(2);
+    const latitude = position.coords.latitude.toFixed(3);
+    const longitude = position.coords.longitude.toFixed(3);
+    console.log(latitude, longitude)
     const coordsObj = {
         latitude,
         longitude
